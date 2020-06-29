@@ -1,4 +1,3 @@
-// AUTHOR: Federico Terzi
 // Arduino sketch for the gesture controlled keyboard.
 // This sketch is the BASIC version, and does not include Bluetooth capabilities,
 // If you want Bluetooth, use the normal version instead.
